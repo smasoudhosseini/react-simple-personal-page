@@ -2,7 +2,7 @@
 It is a simple personal website with React.
 
 # demo of this personal page:
-[Personal Page](https://smasoudhosseini.github.io/)
+[Personal Page](https://smasoudhosseini.ir/)
 
 ### Running
  run the following commands for download the repository and install:
